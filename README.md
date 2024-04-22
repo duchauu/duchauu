@@ -15,34 +15,47 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">😄My Story So Far</h2></summary>
+    <summary><h2 style="display: inline-block"><img align="center" src = "https://github.com/duchauu/duchauu/raw/main/imagesforgit/about_me.gif" width = 40px>My Story So Far</h2></summary>
   </ul>
 </div>
 
+<br>
+
 ✍ I’m currently studying at [VNUHCM - University of Science](https://hcmus.edu.vn/)
 
+<td>
+      <p align="center"> 
+        <img src = "https://github.com/duchauu/duchauu/raw/main/imagesforgit/programming.svg" alt="dev" width="50%"/>
+      </p>
+    </td>
 <!--
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Activities</h2></summary>
   </ul>
   -->
-</div>
+
+
+<!--</div>
 <table style="width:100%;">
   <tr>
-    <!--<td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchauu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=duchauu&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchauu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="duchau" width="60%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=duchauu&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="duchau" width="80%"/>
     </td>
-    <td>-->
+    <td>
       <p align="center"> 
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV0cXg3ZWp1M2h6MjF0MGhjNzF4eWwydW5sYXYyaWp4dmcxaTV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFFGUPTPTRqIhwepA4/giphy.gif alt="dev" width="100%"/>
+        <img src = "https://github.com/duchauu/duchauu/raw/main/imagesforgit/programming.svg" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
 </table>
+-->
 
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -61,7 +74,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block"><img align="center" src = "https://github.com/duchauu/duchauu/raw/main/imagesforgit/handshake.gif" width = 50px>Connect With Me</h2></summary>
   </ul>
 </div>
 
@@ -70,7 +83,7 @@
 <a href="https://www.linkedin.com/in/l%C3%AA-%C4%91%E1%BB%A9c-h%E1%BA%ADu-014b07304/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://discord.gg/tV8tTSZ4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 <a href="mailto:leduchau111@gmail.com" alt="Email"><img align="center" src="https://img.icons8.com/fluent/48/000000/mailing.png" height="50" width="50" /></a>  
-<a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" ><img align="center" src=".../icons8-kaggle-an-online-community-of-data-scientists-and-machine-learners,-owned-by-google-16.png" height="50" width="50"/></a>
+<a href="https://www.kaggle.com/leduchau" alt="Kaggle" target="_blank" ><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" height="50" width="50"/></a>
 </p>
 
 <!--profile visit count-->
