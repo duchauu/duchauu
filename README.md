@@ -80,7 +80,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/l%C3%AA-%C4%91%E1%BB%A9c-h%E1%BA%ADu-014b07304/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/dhaufindjob/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://discord.gg/tV8tTSZ4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 <a href="mailto:leduchau111@gmail.com" alt="Email"><img align="center" src="https://img.icons8.com/fluent/48/000000/mailing.png" height="50" width="50" /></a>  
 <a href="https://www.kaggle.com/leduchau" alt="Kaggle" target="_blank" ><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" height="50" width="50"/></a>
